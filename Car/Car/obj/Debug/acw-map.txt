@@ -1,0 +1,8 @@
+Car.MainActivity, Car;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity
+Car.MainActivity, Car, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity
+Car.MainActivity;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity
+car.MainActivity;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity
+Car.MainActivity/Receiver, Car;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity_Receiver
+Car.MainActivity+Receiver, Car, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity_Receiver
+Car.MainActivity.Receiver;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity_Receiver
+car.MainActivity_Receiver;md59ea47352e5572dadd186fc9e8ac4f122.MainActivity_Receiver
